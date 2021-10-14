@@ -15,6 +15,7 @@ public class Pelicula {
     private String director;
     private Integer duracionHs;
     private String borraratributoparaGIT;
+    private String otroatributoparaborrarGIT;
 
     public Pelicula() {
     }
